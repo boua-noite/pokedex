@@ -1,0 +1,15 @@
+.hero {
+    background-color: var(--red);
+}
+
+.hero-title {
+    color: var(--white)
+}
+
+.hero-subtitle {
+    color: var(--white)
+}
+
+.hero-image {
+
+}
